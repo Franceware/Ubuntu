@@ -1,4 +1,4 @@
-<h1> Pthread lettori Scrittori su più oggetti Monitor </h1>
+<h1> Pthread LETTORI - SCRITTORI su più oggetti Monitor </h1>
 
 Si completi in linguaggio C o C++ un programma multi-thread che simuli il monitoraggio di traffico navale. Il programma dovrà essere basato sul costrutto <b> Monitor e risolvere un problema lettori/scrittori con starvation di entrambi </b>.
 
