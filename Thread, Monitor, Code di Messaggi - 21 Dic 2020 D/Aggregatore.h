@@ -31,8 +31,6 @@ typedef struct
 	pthread_mutex_t Mutex;
 	pthread_cond_t CondVarLettori;
 	pthread_cond_t CondVarScrittori;
-	//pthread_mutex_t MutexLettori;
-
 }MonitorAggregatore;
 
 void aggregazione(int, int*);
